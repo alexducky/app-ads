@@ -1239,3 +1239,38 @@ appnexus.com, 1577, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 9755, RESELLER, 0bfd66d529a55807
 adswizz.com, targetspot, RESELLER
 adswizz.com, odeeo, DIRECT
+adform.com, 2840, RESELLER
+adform.com, 2795, RESELLER
+admixer.co.kr, 1538, RESELLER
+ssp.logan.ai, LG4, RESELLER
+conversantmedia.com, 100264, RESELLER, 03113cd04947736d
+betweendigital.com, 43837, RESELLER
+opera.com, pub5184691729984, RESELLER, 55a0c5fd61378de3
+sabio.us, 100098, RESELLER, 96ed93aaa9795702
+ssp.e-volution.ai, AJxF6R108a9M6CaTvK, RESELLER
+mobilefuse.com, 2281, RESELLER
+tpmn.io, 256, RESELLER
+prequel.tv, 513, RESELLER
+mars.media, 1010380, RESELLER, 8624339f102fb076
+se7en.es, 212432, RESELLER, 064bc410192443d8
+lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
+appnexus.com, 12622, RESELLER
+gm.mobfox.com, 303-b4233, RESELLER
+lemmatechnologies.com, 680, DIRECT, 7829010c5bebd1fb
+google.com, pub-4568609371004228, RESELLER, f08c47fec0942fa0
+smartyads.com, 1272, DIRECT, fd2bde0ff2e62c5d
+admixer.net, 7d4227db-14e6-40b2-8485-cb9489d07ddd, DIRECT
+aol.com, 54522, RESELLER
+uis.mobfox.com, 303-b4233, DIRECT, 5529a3d1f59865be
+sonobi.com, 71169bd4a5, DIRECT, d1a215d9eb5aee9e
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
+mars.media, 1010443, RESELLER, 8624339f102fb076
+conversantmedia.com, 100246, RESELLER, 03113cd04947736d
+eskimi.com, eas-2020000005, RESELLER
+inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
+aol.com, 58701, DIRECT
+yahoo.com, 58701, DIRECT
+inmobi.com, cec065af8e36462f8c33dc5a1f9781f7, RESELLER, 83e75a7ae333ca
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a5580
+aol.com, 54813, DIRECT, e1a5b5b6e3255540
+adtech.com, 11095, DIRECT, e1a5b5b6e3255
